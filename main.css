@@ -3,13 +3,13 @@ body{
     color: white;
 }
 
-#firstparagraph {
+#firstparagraph2 {
    font-size: 36px;
    color: blue;
    font-weight: bold;
 }
 
-.headers {
+.title {
 font-family:arial;
 text-align: center;
 color: violet;
