@@ -1,0 +1,16 @@
+body{
+    background: black;
+    color: white;
+}
+
+#firstparagraph {
+   font-size: 36px;
+   color: blue;
+   font-weight: bold;
+}
+
+.headers {
+font-family:arial;
+text-align: center;
+color: violet;
+}
